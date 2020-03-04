@@ -1,2 +1,36 @@
-Body { background-color: beige;
+Body { background-color: plum;
+Color: aqua;
+}
+
+.Navigation {
+    list-style-type: none;
+    margin-top: -9px;
+    margin-right: -9px;
+    margin-left: -9px;
+    margin-bottom: -9px;
+    overflow: hidden;
+    background-color: Plum;
+}
+li {
+    float: left;
+}
+
+li a { display: block;
+    color: #0BE6D8;
+    text-align: center;
+    padding-top: 32px;
+    padding-right: 93px;
+    padding-left: 217px;
+    padding-bottom: 27px;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+
+
+.FavoriteShows { 
+letter-spacing: 6rem;
+text-align: left;
+
 }
